@@ -1,6 +1,6 @@
 ## Hi, I'm Florante 👋
 
-![GitHub Logo](https://raw.githubusercontent.com/amonoyflow/amonoyflow/master/banner2.png)
+![GitHub Logo](https://raw.githubusercontent.com/amonoyflow/amonoyflow/master/banner.png)
 
 I'm a software engineer focusing on mobile development for more than 7 years now. The technologies I'm currently using are (Xamarin Forms / C#) and recently (Flutter / Dart).
 
