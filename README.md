@@ -1,6 +1,6 @@
 ## Hi, I'm Florante 👋
 
-![GitHub Logo](images/Github.png)
+![GitHub Logo](banner.png)
 
 I'm a software engineer focusing on mobile development for more than 7 years now. The technologies I'm currently using are (Xamarin Forms / C#) and recently (Flutter / Dart).
 
